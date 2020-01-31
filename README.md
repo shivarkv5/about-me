@@ -33,5 +33,7 @@ Main tools with their links.
  Shiva Rama Krishna Vodnala
  MS-Applied Computer Science 
 
-This is one of the quote which I like 
-![Stoicism](https://i.pinimg.com/236x/40/42/49/4042491430cfd829a2669ba5afad6875.jpg)
+My favourite movie
+![Bahubali](https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/f/5d/f5dea132-9744-11e8-841a-93b06f2d01a5/5b6495bf1e49a.image.jpg?resize=750%2C449)
+
+[Credits](www.indiawest.com)
