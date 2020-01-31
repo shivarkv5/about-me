@@ -20,7 +20,7 @@ Main tools with their links.
 - [Github Documentation](https://help.github.com/en/github)
 - [Github Pages](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 - [Tortoise Git](https://tortoisegit.org/) (This tool makes you hassle-free in clone,commit, push and pull)
-- [Visual Studio Code](https://code.visualstudio.com/) (Not mandatory, you can also use notepad)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Recommended Resources
 
