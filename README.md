@@ -30,8 +30,8 @@ Main tools with their links.
 - [You can also subscribe to an online course](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/)
 
 ## Contributors
- Shiva Rama Krishna Vodnala
- MS-Applied Computer Science 
+ - Shiva Rama Krishna Vodnala
+ - MS-Applied Computer Science 
 
 My favourite movie
 ![Bahubali](https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/f/5d/f5dea132-9744-11e8-841a-93b06f2d01a5/5b6495bf1e49a.image.jpg?resize=750%2C449)
